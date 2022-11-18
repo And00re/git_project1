@@ -1,6 +1,6 @@
 def main():
     print('Hi')
-    print('BuyBye')
+    print('Hello There')
     print('Bye')
 
 
