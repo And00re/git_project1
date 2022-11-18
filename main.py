@@ -1,6 +1,5 @@
 def main():
     print('Hi')
-    print('kuku')
     print('BuyBye')
     print('Bye')
 
