@@ -2,8 +2,7 @@ def main():
     print('Hi')
     print('Hello There')
     print('Bye')
-    print('Another Bye')
-    print('And another one')
+    print('Hehe')
 
 
 if __name__ == '__main__':
